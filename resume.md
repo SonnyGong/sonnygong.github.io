@@ -1,9 +1,7 @@
 # 龚灿阳 - 测开\工具-8年
 
-<p align="left">
-📧 gongcanyang@qq.com    📱 176-2586-5268    📍 期望工作地：上海|苏州    🕙工作经验：8年
-</p>
-
+📧 gongcanyang@qq.com | 📱 176-2586-5268  
+📍 期望工作地：🌏上海/苏州 | 🕙工作经验：8年  
 
 ---
 
@@ -18,8 +16,8 @@
 **工具框架**  
 ![PyQt5](https://img.shields.io/badge/PyQt5-3年经验-41CD52?logo=qt)
 ![PyOpenGL](https://img.shields.io/badge/PyOpenGL-3D渲染-5580A0)
-![ZLG](https://img.shields.io/badge/ZLG-基础使用/二次开发-yellowgreen)
-![CANoe](https://img.shields.io/badge/CANoe-基础使用/二次开发-yellowgreen)
+![ZLG](https://img.shields.io/badge/ZLG-基础使用/二次开发-0080FF)
+![CANoe](https://img.shields.io/badge/CANoe-基础使用/二次开发-00C853)
 
 **汽车协议**  
 ![CAN](https://img.shields.io/badge/CAN-全栈解析-FFD700)
@@ -39,7 +37,7 @@
   ✓ 实现毫米波雷达点云\Tracker\Freespace\ADAS实时渲染（延迟<50ms）  
   ✓ 依据主毫米波雷达Framecnt进行同步，支持多源传感器CSV数据回放  
   ✓ 集成周立功/ZLG等多设备同时驱动（CANFD-200U/800U）  
-  ✓ 轻量化，笔记本电脑也可实时绘制  
+  ✓ 轻量化，低配设备渲染FPS≥20  
   ✓ 服务赛力斯、长安十几个车型，全项目周期实验室测试\开发自测\实车测试使用
 - 技术栈：PyQt5/PyOpenGL/Pandas/Multiprocessing/OpenCV/Cantools
 
@@ -71,7 +69,7 @@
 
 - 分析需求，设计测试用例，包含基础一级case，二三级多重交互case，压力测试case，过夜测试case，兼容性测试case，异常case等 。
 - 利用自动化平台，设计编写自动化测试用例，覆盖手工测试 。
-- 利用python编写小工具，应对测试痛点。
+- 利用python开发自动化效能提升工具链，应对测试痛点。
 
 ---
 
@@ -122,7 +120,9 @@
 
 ---
 
+🌐 [在线简历](https://sonnygong.github.io/resume)
 
+https://sonnygong.github.io/resume
 📹 [作品视频演示](https://www.bilibili.com/video/BV1nSsde5ELi)
 https://www.bilibili.com/video/BV1nSsde5ELi
 💻 [GitHub仓库](https://github.com/SonnyGong/ProtoVision-3D )

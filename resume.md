@@ -7,11 +7,11 @@
 ## 🗺️项目展示
 
 🌐 [在线简历](https://sonnygong.github.io/resume)
-https://sonnygong.github.io/resume
+https://sonnygong.github.io/resume  
 📹 [作品视频演示](https://www.bilibili.com/video/BV1nSsde5ELi)
-https://www.bilibili.com/video/BV1nSsde5ELi
+https://www.bilibili.com/video/BV1nSsde5ELi  
 💻 [GitHub仓库](https://github.com/SonnyGong/ProtoVision-3D )
-https://github.com/SonnyGong/ProtoVision-3D
+https://github.com/SonnyGong/ProtoVision-3D  
 
 ---
 

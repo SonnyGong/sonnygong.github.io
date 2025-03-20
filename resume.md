@@ -56,10 +56,15 @@ https://github.com/SonnyGong/ProtoVision-3D
 **金陵科技学院** - 食品科学与工程  
 `2013/09 - 2017/06`  
 ## 💡 技术亮点
+
 **混合编程优化**  
+
 - 使用C扩展重构Python核心模块，执行效率提升3倍
+
 - 开发OpenGL GPU加速渲染管线，降低CPU占用率40%
+
 **工具链生态**  
+
 - 构建从数据采集→解析→可视化→存储全流程工具链
 ## 🔧 核心技术栈
 ![Python](https://img.shields.io/badge/Python-5_years-3776AB?logo=python&logoColor=white)![C](https://img.shields.io/badge/C-DLL加速-00599C?logo=c)![GLSL](https://img.shields.io/badge/GLSL-图形编程-5580A0)![PyQt5](https://img.shields.io/badge/PyQt5-3年经验-41CD52?logo=qt)![PyOpenGL](https://img.shields.io/badge/PyOpenGL-3D渲染-5580A0)![ZLG](https://img.shields.io/badge/ZLG-基础使用/二次开发-0080FF)![CANoe](https://img.shields.io/badge/CANoe-基础使用/二次开发-00C853)![CAN](https://img.shields.io/badge/CAN-全栈解析-FFD700)![ProtoBuf](https://img.shields.io/badge/ProtoBuf-序列化处理-4B0082)![TCP/IP](https://img.shields.io/badge/TCP/IP-数据解析/工具通信搭建-4B0082)
